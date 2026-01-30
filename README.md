@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-alpha-eight-71.vercel.app](https://my-portfolio-alpha-eight-71.vercel.app)
 
-- 📝 I regularly write articles on [What I learn while building real projects](What I learn while building real projects)
+- 📝 I regularly write articles on What I learn while building real projects
 
 - 💬 Ask me about **React, APIs, databases, debugging weird bugs at 2 AM**
 
