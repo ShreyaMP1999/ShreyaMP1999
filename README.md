@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shreyamp1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/resume]([https://drive.google.com/file/d/1pKTtZTfxh2KeJmHzdNilmH99CXuei6Ss/view](https://drive.google.com/file/d/1HBcXBOZKMcijfqhK9wF9qXgR-Wje8USs/view?usp=share_link))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1pKTtZTfxh2KeJmHzdNilmH99CXuei6Ss/view](https://drive.google.com/file/d/1HBcXBOZKMcijfqhK9wF9qXgR-Wje8USs/view?usp=share_link))
 
 - ⚡ Fun fact **Lazy dev ≠ bad dev.... Pov: I love being Lazyyyyy....!!**
 
